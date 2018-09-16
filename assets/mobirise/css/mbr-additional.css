@@ -1789,15 +1789,16 @@ body {
 .cid-r2ZYqXN61Q H2 {
   color: #ff150c;
 }
-.cid-r2qvxxV6xv {
-  background: #ffffff;
+.cid-r3QAoCmH2N {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #030303;
 }
-.cid-r2qvxxV6xv .video-block {
+.cid-r3QAoCmH2N .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
-  .cid-r2qvxxV6xv .video-block {
+  .cid-r3QAoCmH2N .video-block {
     width: 100% !important;
   }
 }
